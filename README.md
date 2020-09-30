@@ -4,3 +4,9 @@ New Text right here
 Lets see now
 Weitere Änderungen
 sind passiert
+
+
+
+git stash funktion
+
+eine neue Branch Zeile
